@@ -98,9 +98,9 @@ By default the limit is set to 10, if you want you can change it and run 'till 2
 
 You can generate documentation running:
 
-'''
-doxygen doc.conf
-'''
+```
+$ doxygen doc.conf
+```
 
 it'll be generated in "docs/" folder (html and latex).
 
