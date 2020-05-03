@@ -1,8 +1,8 @@
-# TSP-DP-PARALLEL
-Travelling Salesman Problem implementation solved using Dynamic Programming solution cutting worst subtree and result visualization.
+# TSP-PARALLEL
+Travelling Salesman Problem implementation solved using Brute Force solution cutting worst subtree and result visualization.
 
 ## Table of contents
-- [TSP-DP-PARALLEL](#TSP-DP-PARALLEL)
+- [TSP-PARALLEL](#TSP-PARALLEL)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Technologies](#technologies)
