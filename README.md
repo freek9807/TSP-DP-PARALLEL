@@ -50,7 +50,7 @@ $ ./TSP <num-of-nations>
 # e.g. ./TSP 10
 ```
 
-The best result till now has been with an input of 19 cities. 
+The best result till now has been with an input of 15 cities. 
 Execution output result:
 
 ```
@@ -60,7 +60,7 @@ Execution output result:
 |                     |        |         |
 ------------------------------------------
 |         Afghanistan |  33.00 |   65.00 |
-|       Åland Islands |  60.12 |   19.90 |
+|      Åland Islands  |  60.12 |   19.90 |
 |             Albania |  41.00 |   20.00 |
 |             Algeria |  28.00 |    3.00 |
 |      American Samoa | -14.33 | -170.00 |
@@ -74,17 +74,13 @@ Execution output result:
 |               Aruba |  12.50 |  -69.97 |
 |           Australia | -27.00 |  133.00 |
 |             Austria |  47.33 |   13.33 |
-|          Azerbaijan |  40.50 |   47.50 |
-|             Bahamas |  24.25 |  -76.00 |
-|             Bahrain |  26.00 |   50.55 |
-|          Bangladesh |  24.00 |   90.00 |
 ------------------------------------------
 
-Execution Time : 4214.45 s
+Execution Time : 15.6387 s
 
-Min cost is: 64291.7
+Min cost is: 61936.5
 
-Afghanistan -> Bahrain -> Azerbaijan -> Armenia -> Åland Islands -> Austria -> Albania -> Andorra -> Algeria -> Angola -> Antarctica -> Argentina -> Aruba -> Antigua and Barbuda -> Anguilla -> Bahamas -> American Samoa -> Australia -> Bangladesh -> Afghanistan
+Afghanistan -> Armenia -> Åland Islands -> Austria -> Albania -> Andorra -> Algeria -> Angola -> Antarctica -> Argentina -> Antigua and Barbuda -> Anguilla -> Aruba -> American Samoa -> Australia -> Afghanistan
 Map has been printed!
 ```
 
