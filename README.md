@@ -7,7 +7,7 @@ Travelling Salesman Problem implementation solved using Brute Force solution cut
   - [General info](#general-info)
   - [Technologies](#technologies)
   - [Setup](#setup)
-  - [How to use?](#how-to-use)
+  - [How to use it?](#how-to-use)
   - [Documentation](#documentation)
   - [License](#license)
 
