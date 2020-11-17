@@ -1,5 +1,5 @@
 # TSP-PARALLEL
-Travelling Salesman Problem implementation solved using Brute Force solution cutting worst subtree and result visualization.
+Travelling Salesman Problem implementation, using Brute Force solution cutting worst subtree, and result visualization.
 
 ## Table of contents
 - [TSP-PARALLEL](#TSP-PARALLEL)
